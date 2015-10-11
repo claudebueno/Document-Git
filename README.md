@@ -2,7 +2,7 @@
 Base de connaissance sur Git
 
 
-Texte rédigé dans le cadre de la formation OpenClassrooms : Gérer son code avec Git et GitHub
+Texte rédigé dans le cadre de la formation OpenClassrooms : **Gérer son code avec Git et GitHub**
 
 URL : https://openclassrooms.com/courses/gerer-son-code-avec-git-et-github
 
